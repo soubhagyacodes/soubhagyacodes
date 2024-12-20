@@ -6,7 +6,6 @@
 - 👋 Hi, I’m @soubhagyacodes
 - 👀 I’m interested in Programming and Development
 - 🌱 I’m currently learning Next.JS, TypeScript, JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >> Mail: soubhagya.23547@sscbs.du.ac.in
 - 😄 Pronouns: he/him
 
